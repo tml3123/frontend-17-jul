@@ -1,0 +1,3 @@
+hello! thats a lecture for git hub connection
+
+
